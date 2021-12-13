@@ -17,20 +17,20 @@ body {
 a {
 	color: #000;
 	font-size: 13px;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 2px;
 
 }
 
-a:hover { 
+a:hover {
 
 	color: #FFAEBC;
 	font-size: 13px;
 	text-transform: lowercase;
 	letter-spacing: 3px;
-}   
+}
 
 section {
 
@@ -54,6 +54,12 @@ section {
 	font-size: 16px;
 	font-family: 'Quicksand', bold;
 	color: #4D5656
+}
+
+.links {
+	font-family: 'Quicksand', bold;
+	color: #FFAEBC;
+	font-size: 20px;
 }
 
 footer {
